@@ -196,4 +196,4 @@ mvn serenity:aggregate
 ---
 
 ## 👥 Autor
-Desarrollado para prácticas de automatización de pruebas API con Serenity BDD y Screenplay.
+Luis Gustavo Silva Suárez
